@@ -4,7 +4,7 @@ import pyttsx3
 import requests
 import webbrowser
 
-openai.api_key = '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'
+openai.api_key = 'api key'
 
 # Initialize the TTS engine
 engine = pyttsx3.init('sapi5')
